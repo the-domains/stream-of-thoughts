@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/149679205'
 inLanguage: null
 keywords: []
 description: On our way back from Kalø Slotsruin we stopped at Bregnet Kirke. It is a small white church still very close to the shoreline. The interior has been renovated with beautiful paintings from Arne Haugen Sørensen.
-datePublished: '2016-05-11T17:01:32.164Z'
-dateModified: '2016-05-11T07:05:53.619Z'
+datePublished: '2016-05-11T19:34:41.604Z'
+dateModified: '2016-05-11T19:33:53.660Z'
 author:
   - name: Birgit Tengberg. Tengberg Media
     url: 'http://vimeo.com/user16586663'
@@ -41,6 +41,7 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Arne Haugen Sørensen - et maledyr. Af Birgit Tengberg
+sourcePath: _posts/2016-05-11-arne-haugen-sorensen-et-maledyr-af-birgit-tengberg.md
 authors: []
 publisher:
   name: Vimeo
@@ -48,7 +49,6 @@ publisher:
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 starred: false
-sourcePath: _posts/2016-05-11-arne-haugen-sorensen-et-maledyr-af-birgit-tengberg.md
 _type: VideoObject
 _context: 'http://schema.org'
 
