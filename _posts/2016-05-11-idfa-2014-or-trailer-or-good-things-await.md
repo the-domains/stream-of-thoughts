@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=pzBxGUvGNmo'
 inLanguage: null
 keywords: []
 description: 'If you get a chance to watch this full documentary, just watch it and contemplate.'
-datePublished: '2016-05-11T19:56:20.510Z'
-dateModified: '2016-05-11T19:56:12.055Z'
+datePublished: '2016-05-11T20:35:30.244Z'
+dateModified: '2016-05-11T20:35:26.882Z'
 author:
   - name: IDFA
     url: 'https://www.youtube.com/user/IDFA'
@@ -15,6 +15,7 @@ author:
 related: []
 app_links: []
 title: 'IDFA 2014 | Trailer | Good Things Await'
+sourcePath: _posts/2016-05-11-idfa-2014-or-trailer-or-good-things-await.md
 authors: []
 publisher:
   name: YouTube
@@ -22,7 +23,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://ipv4.google.com/favicon.ico'
 starred: false
-sourcePath: _posts/2016-05-11-idfa-2014-or-trailer-or-good-things-await.md
 _context: 'http://schema.org'
 _type: MediaObject
 
