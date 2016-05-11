@@ -1,0 +1,28 @@
+name: stream of thoughts
+favicon: null
+layout_spectrum: 0.766534709604457
+typography_spectrum: 0.700652138562873
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7107347040437162
+  lightness: 0.544256724184379
+  saturation: 0.03184125921688974
+  rhythmicContrast: 0.041645633755251765
+purpose: []
