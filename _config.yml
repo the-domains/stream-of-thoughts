@@ -1,7 +1,7 @@
 name: stream of thoughts
 favicon: null
-layout_spectrum: 0.9673
-typography_spectrum: 0.700652138562873
+layout_spectrum: 0.35331
+typography_spectrum: 0.13933
 title: stream of thoughts
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.6875
   saturation: 0.3125
   rhythmicContrast: 0.5
