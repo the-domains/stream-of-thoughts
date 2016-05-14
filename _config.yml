@@ -1,6 +1,6 @@
 name: stream of thoughts
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.19945940584875643
 typography_spectrum: 0.13933
 title: stream of thoughts
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0.125
-  rhythmicContrast: 0.75
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.14433805155567825
+  lightness: 0.37680313386954367
+  saturation: 0.7533969499636441
+  rhythmicContrast: 0.6794093679636717
 purpose: []
